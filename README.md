@@ -1,5 +1,5 @@
 # ReviewFlask
-In this project,Scrapping  the reviews of product from flipkart website in the CSV file format with the column name (Product,	Customer Name,	Rating,	and Heading	Comment) have performed.
+In this project, scraping the products' reviews from the Flipkart website in the CSV file format with the column name (Product, Customer Name, Rating, and Heading Comment) have performed.
 
 
 **Libraries used**
