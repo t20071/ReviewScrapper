@@ -8,3 +8,5 @@ In this project, scraping the products' reviews from the Flipkart website in the
 3. beautifulsoup4
 4. click
 and many more
+
+[Format of csv file](screenshot.PNG)
