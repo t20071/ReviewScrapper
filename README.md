@@ -9,4 +9,4 @@ In this project, scraping the products' reviews from the Flipkart website in the
 4. click
 and many more
 
-[Format of csv file](screenshot.PNG)
+[Format of csv file]([screenshot.PNG](https://github.com/t20071/ReviewFlask/blob/main/screenshot.PNG))
